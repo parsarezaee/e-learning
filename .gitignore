@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 
 .vscode
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
